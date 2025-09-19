@@ -1,4 +1,4 @@
-# Hi, I’m Mike 👋 (@pubmukmuk)
+# Hi, I’m Mike 👋 (@devmukmuk)
 
 I’m a software developer with experience in **Python**, **Java**, and **Unity (C#)**.  
 This profile is my public portfolio, showcasing selected projects that demonstrate my skills in **game development, automation, and software engineering**.
@@ -13,8 +13,6 @@ This profile is my public portfolio, showcasing selected projects that demonstra
 - **[FamilyFoto CLI Toolset](https://github.com/pubmukmuk/familyfoto)** (Python)  
   Tools for photo organization and metadata processing, with reverse geocoding, tagging, and batch automation.
 
-- **[Space Miner](https://github.com/pubmukmuk/spaceminer)** (Unity, C#)  
-  Arcade-style mining game featuring resource collection, randomized asteroid fields, and dynamic levels.
 
 ---
 
