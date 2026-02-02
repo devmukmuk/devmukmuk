@@ -7,11 +7,14 @@ This profile is my public portfolio, showcasing selected projects that demonstra
 
 ## 🚀 Featured Projects
 
-- **[Orbis2D](https://github.com/pubmukmuk/orbis2d)** (Java)  
+- **[Orbis2D](https://github.com/devmukmuk/orbis2d)** (Java)  
   Semi-retro 2D space exploration game with procedurally generated planets, AI enemies, and modular HUDs.
 
-- **[FamilyFoto CLI Toolset](https://github.com/pubmukmuk/familyfoto)** (Python)  
+- **[FamilyFoto CLI Toolset](https://github.com/devmukmuk/familyfoto)** (Python)  
   Tools for photo organization and metadata processing, with reverse geocoding, tagging, and batch automation.
+
+- **[CodeIt](https://github.com/devmukmuk/codeit)** (Python)  
+  Encode and decode secret message using command-line python scripts.
 
 
 ---
